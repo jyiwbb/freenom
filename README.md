@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Freenom：freenom域名自动续期</h1>
 
-启动test
     
     
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
